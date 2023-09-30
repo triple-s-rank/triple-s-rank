@@ -1,4 +1,5 @@
 Leetcode Stats
 
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=EgorGor)](https://github.com/triple-s-tier/github-readme)
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=EgorGor&theme=dark" width="400"/>
+</a>
